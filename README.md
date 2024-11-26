@@ -2,4 +2,4 @@
 
 A trial of GitHub
 
-$E = mc^2$
+$$E = mc^2$$
